@@ -1,5 +1,5 @@
 {
-    "name": "prosoftSolutions/pagerfanta-bundle",
+    "name": "prosoft-solutions/pagerfanta-bundle",
     "description": "Bundle to use Pagerfanta with Symfony2",
     "keywords": ["page","paging"],
     "type": "symfony-bundle",
